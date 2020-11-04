@@ -1,2 +1,6 @@
 fsfsdfsdf
-old
+<<<<<<< HEAD
+new
+=======
+new
+>>>>>>> feature1
